@@ -1,2 +1,1 @@
-# IBM_Data_Science_Specialization
-IBM Data Science Specialization Coursera course capstone
+These files were created as part of the IBM Data Science Specialization Coursera course. They contain the predictive analysis of Space-X launch outcomes and the presentation of the findings.
